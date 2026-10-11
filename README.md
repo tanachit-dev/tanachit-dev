@@ -1,16 +1,16 @@
-#Hi I'm Tanachit
+# Hi I'm Tanachit
 
-**Team Leader in EV manufacturing -> Learning to become a Full Stack Developer.**
+**Team Leader in EV manufacturing → Learning to become a Full Stack Developer.**
 
 I work at the intersection of factory floors and software: I build internal tools for quality control, and I'm now learning software engineering properly, from the fundamentals up.
 
-## 📖Currently learning
+## 📖 Currently learning
 - [x] Terminal and Git basics
 - [ ] JavaScript fundamentals
 - [ ] Backend with Node.js and PostgreSQL
 - [ ] React
 
-## ⚒️Background
+## ⚒️ Background
 | Area | Experience |
 | --- | --- |
 | Industrial (OT) | Mitsubishi PLC, sensors, serial communication |
