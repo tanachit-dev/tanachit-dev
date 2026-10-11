@@ -1,6 +1,6 @@
 # Hi I'm Tanachit
 
-** Evaluation Engineer of Air Conditioner manufacturing → Learning to become a Full Stack Developer.**
+**Evaluation Engineer of Air Conditioner manufacturing → Learning to become a Full Stack Developer.**
 
 I work at the intersection of factory floors and software: I build internal tools for quality control, and I'm now learning software engineering properly, from the fundamentals up.
 
